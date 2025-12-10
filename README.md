@@ -21,7 +21,7 @@ The focus of the project is on clean HTML structure, modern CSS layout technique
 
 2. Navigate to the project folder
 ```bash
-cd html-ccs-emiliefosmo
+cd HTML-CSS
 ```
 
 3. Open the project in code ediot (VS Code)
