@@ -24,7 +24,7 @@ The focus of the project is on clean HTML structure, modern CSS layout technique
 cd HTML-CSS
 ```
 
-3. Open the project in code ediot (VS Code)
+3. Open the project in code edit (VS Code)
 ``` bash
 code .
 ```
