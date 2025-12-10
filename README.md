@@ -16,7 +16,7 @@ The focus of the project is on clean HTML structure, modern CSS layout technique
 ## **Installation**
 1. Clone the repository: 
 ```bash
- git clone https://github.com/emifos/html-ccs-emiliefosmo.git
+ git clone https://github.com/emifos/HTML-CSS.git
 ```
 
 2. Navigate to the project folder
