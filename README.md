@@ -42,7 +42,7 @@ emilie.fosmo@hotmail.com
 
 [My LinkdIn](https://www.linkedin.com/in/emilie-sofie-fosmo-1b9bb1228/)
 
-[Project Link](https://github.com/emifos/html-ccs-emiliefosmo)
+[Project Link](https://github.com/emifos/HTML-CSS)
 
 ## **Licence**
 This project is licensed under the MIT Licence. 
